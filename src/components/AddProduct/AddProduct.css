@@ -1,0 +1,32 @@
+.dash-addProduct{
+    height: 100vh;
+}
+.dash-manageProduct{
+    height: 100%;
+}
+.side-nav{
+    background-color: #203D37;    
+}
+.side-nav a{
+    text-decoration: none;
+    color: white;
+    padding: 15px;
+}
+.side-nav img{
+    width: 10%;
+}
+.logo-style img{
+    width: 200px;
+}
+.inventory{
+    background-color:#F4FCFB;
+}
+input[type=file]::file-selector-button{
+    background-color:#F4FCFB;
+}
+input[type=file]::file-selector-button:hover{
+    background-color: #F4FCFB;
+}
+.delete-icon img{
+    width: 10%;
+}
